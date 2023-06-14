@@ -1,0 +1,34 @@
+{
+    "name": "Sweet",
+    "spots": 15,
+    "members": [
+        {
+            "name": "Rubel",
+            "email":"rubel@gmail.com",
+            "status": "Active"
+        },
+        {
+            "name": "Shanur Biswas",
+            "email":"shanur@gmail.com",
+            "status": "Active"
+        },
+        {
+            "name": "Yeasir Adnan",
+            "email":"adnan@gmail.com",
+            "status": "Active"
+        },
+        {
+            "name": "Megh",
+            "email":"megh@gmail.com",
+            "status": "Active"
+        },
+        {
+            "name": "Shohelly",
+            "email":"jahan@gmail.com",
+            "status": "Active"
+        }
+    
+    
+    ]
+       
+}
